@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haseebiqbal872-cmd.github.io/sitemap.xml
